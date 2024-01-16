@@ -1,0 +1,176 @@
+body {
+                    margin: 50px 120px 120px;
+                 }
+                 
+                 nav {
+                    display: flex;
+                    justify-content: space-between;
+                 }
+                 
+                 span {
+                    color: #FF5400;
+                 }
+                 
+                 nav>ul {
+                    display: flex;
+                 }
+                 
+                 nav li {
+                    list-style: none;
+                    margin-right: 30px;
+                 }
+                 
+                 nav li a {
+                    text-decoration: none;
+                    color: #424247;
+                 }
+                 
+                 .Explore {
+                    padding-top: 100px;
+                    text-align: center;
+                    background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+                    width: 100%;
+                    height: 400px;
+                 }
+                 
+                 .South {
+                    color: #FFF;
+                 }
+                 
+                 .Where {
+                    text-align: left;
+                    width: 174px;
+                    height: 52px;
+                    border-radius: 8px;
+                    background: #FFF;
+                 }
+                 
+                 
+                 
+                 
+                 
+                 .btn-primary {
+                    width: 174px;
+                    height: 52px;
+                    border-radius: 8px;
+                    background: #FF5400;
+                 }
+                 
+                 /* main section start */
+                 
+                 .Read {
+                    margin-top: 20px;
+                    width: 174px;
+                    height: 52px;
+                    border-radius: 8px;
+                    background: #FF5400;
+                 }
+                 
+                 
+                 .Popular-Village {
+                    gap: 50px;
+                    padding-top: 100px;
+                    display: flex;
+                 }
+                 
+                 .Choose {
+                    padding-top: 100px;
+                    text-align: center;
+                 }
+                 
+                 .cycle {
+                    text-align: center;
+                 }
+                 
+                 .basic-img {
+                    padding-top: 50px;
+                    display: flex;
+                    gap: 20px;
+                 }
+                 
+                 .medium-img {
+                    padding-top: 20px;
+                    display: flex;
+                    gap: 20px;
+                 }
+                 
+                 .high-img {
+                    padding-top: 20px;
+                    display: flex;
+                    gap: 20px;
+                 }
+                 
+                 .community {
+                    padding-top: 100px;
+                    text-align: center;
+                 }
+                 
+                 
+                 
+                 
+                 
+                 
+                 .cards-container {
+                    padding-top: 20px;
+                    display: flex;
+                    gap: 24px;
+                 }
+                 
+                 .cards-container .card {
+                    width: 573px;
+                    height: 284px;
+                    border-radius: 16px;
+                    border: 1px solid rgba(251, 181, 99, 0.20);
+                    /* background: rgba(251, 181, 99, 0.05); */
+                    background: #FF5400;
+                    padding-left: 30px;
+                 }
+                 
+                 .card-content {
+                    padding-left: 250px;
+                    padding-top: 20px;
+                 
+                 }
+                 
+                 .card-content .secount-card {
+                    width: 573px;
+                    height: 284px;
+                    border-radius: 16px;
+                    border: 1px solid rgba(251, 181, 99, 0.20);
+                    /* background: rgba(251, 181, 99, 0.05); */
+                    background: #FF5400;
+                    padding-left: 25px;
+                 }
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 /* more work */
+                 
+                 .Simple {
+                    padding-top: 30px;
+                 }
+                 
+                 .vidio-section {
+                    padding-top: 50px;
+                    display: flex;
+                    gap: 30px;
+                 }
+                 
+                 .village-vidio video {
+                    width: 610px;
+                    height: 424px;
+                    border-radius: 16px;
+                 }
+                 
+                 .hope {
+                    margin-top: 20px;
+                    width: 174px;
+                    height: 52px;
+                    border-radius: 8px;
+                    background: #FF5400;
+                 
+                 }
