@@ -1,176 +1,250 @@
 body {
                     margin: 50px 120px 120px;
-                 }
-                 
-                 nav {
+}
+
+
+
+nav {
                     display: flex;
                     justify-content: space-between;
-                 }
-                 
-                 span {
+}
+
+span {
                     color: #FF5400;
-                 }
-                 
-                 nav>ul {
+}
+
+nav>ul {
                     display: flex;
-                 }
-                 
-                 nav li {
+}
+
+nav li {
                     list-style: none;
                     margin-right: 30px;
-                 }
-                 
-                 nav li a {
+}
+
+nav li a {
                     text-decoration: none;
                     color: #424247;
-                 }
-                 
-                 .Explore {
+}
+
+.Explore {
                     padding-top: 100px;
                     text-align: center;
                     background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
                     width: 100%;
                     height: 400px;
-                 }
-                 
-                 .South {
+}
+
+.South {
                     color: #FFF;
-                 }
-                 
-                 .Where {
+}
+
+.Where {
                     text-align: left;
                     width: 174px;
                     height: 52px;
                     border-radius: 8px;
                     background: #FFF;
-                 }
-                 
-                 
-                 
-                 
-                 
-                 .btn-primary {
+}
+
+
+
+
+
+.btn-primary {
                     width: 174px;
                     height: 52px;
                     border-radius: 8px;
                     background: #FF5400;
-                 }
-                 
-                 /* main section start */
-                 
-                 .Read {
+}
+
+/* main section start */
+
+.Read {
                     margin-top: 20px;
                     width: 174px;
                     height: 52px;
                     border-radius: 8px;
                     background: #FF5400;
-                 }
-                 
-                 
-                 .Popular-Village {
+}
+
+
+.Popular-Village {
                     gap: 50px;
                     padding-top: 100px;
                     display: flex;
-                 }
-                 
-                 .Choose {
+}
+
+.Choose {
                     padding-top: 100px;
                     text-align: center;
-                 }
-                 
-                 .cycle {
+}
+
+.cycle {
                     text-align: center;
-                 }
-                 
-                 .basic-img {
+}
+
+.basic-img {
                     padding-top: 50px;
                     display: flex;
                     gap: 20px;
-                 }
-                 
-                 .medium-img {
+}
+
+.medium-img {
                     padding-top: 20px;
                     display: flex;
                     gap: 20px;
-                 }
-                 
-                 .high-img {
+}
+
+.high-img {
                     padding-top: 20px;
                     display: flex;
                     gap: 20px;
-                 }
-                 
-                 .community {
+}
+
+.community {
                     padding-top: 100px;
                     text-align: center;
-                 }
-                 
-                 
-                 
-                 
-                 
-                 
-                 .cards-container {
+}
+
+
+
+
+
+
+.cards-container {
                     padding-top: 20px;
                     display: flex;
                     gap: 24px;
-                 }
-                 
-                 .cards-container .card {
+}
+
+.cards-container .card {
                     width: 573px;
                     height: 284px;
                     border-radius: 16px;
                     border: 1px solid rgba(251, 181, 99, 0.20);
-                    /* background: rgba(251, 181, 99, 0.05); */
-                    background: #FF5400;
+                    background: rgba(251, 181, 99, 0.05);
                     padding-left: 30px;
-                 }
-                 
-                 .card-content {
+}
+
+.card-content {
                     padding-left: 250px;
                     padding-top: 20px;
-                 
-                 }
-                 
-                 .card-content .secount-card {
+
+}
+
+.card-content .secount-card {
                     width: 573px;
                     height: 284px;
                     border-radius: 16px;
                     border: 1px solid rgba(251, 181, 99, 0.20);
-                    /* background: rgba(251, 181, 99, 0.05); */
-                    background: #FF5400;
+                    background: rgba(251, 181, 99, 0.05);
                     padding-left: 25px;
-                 }
-                 
-                 
-                 
-                 
-                 
-                 
-                 
-                 /* more work */
-                 
-                 .Simple {
+}
+
+.logo-img {
+                    padding-top: 20px;
+                    width: 64px;
+                    height: 64px;
+
+}
+
+
+
+
+
+/* more work */
+
+.Simple {
                     padding-top: 30px;
-                 }
-                 
-                 .vidio-section {
+}
+
+.vidio-section {
                     padding-top: 50px;
                     display: flex;
                     gap: 30px;
-                 }
-                 
-                 .village-vidio video {
+}
+
+.village-vidio video {
                     width: 610px;
                     height: 424px;
                     border-radius: 16px;
-                 }
-                 
-                 .hope {
+}
+
+.hope {
                     margin-top: 20px;
                     width: 174px;
                     height: 52px;
                     border-radius: 8px;
                     background: #FF5400;
-                 
-                 }
+}
+
+.Newsletter {
+                    padding-top: 50px;
+                    gap: 15px;
+                    display: flex;
+}
+
+section img {
+                    padding-top: 15px;
+}
+
+.Village-markets {
+                    padding-top: 15px;
+                    width: 474px;
+                    height: 422px;
+}
+
+.inpute-btn {
+                    display: flex;
+                    flex-direction: column;
+                    width: 393px;
+                    height: 52px;
+                    border-radius: 8px;
+                    background: rgba(19, 19, 24, 0.05);
+}
+
+
+.Subscrib {  
+                    
+                    background: rgba(19, 19, 24, 0.05);
+                    width: 393px;
+                    height: 52px;
+                    width: 393px;
+                    height: 52px;
+                  
+}
+
+.Subscr { 
+                    gap:  10px;
+                    color: #FFF;
+                    width: 393px;
+                    height: 52px;
+                    border-radius: 8px;
+                    background: #FF5400;
+}
+
+footer{ 
+                  
+                    margin-top: 100px;
+                    padding-top: 70px;
+                    width: 1150px;
+                    height: 502px;
+                    background: rgba(19, 19, 24, 0.05);                
+}
+
+.naser{
+     justify-content: center;               
+    display: flex;                
+}
+.development{
+   text-align: center;                
+}
+.Rights{
+    padding-left: 480px;
+   padding-top: 50px;
+}
+.Reserved{
+    padding-top: 200px;
+    text-align: center;
+}
